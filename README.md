@@ -51,9 +51,6 @@ if(to_do.equals("add"))
 * If the input is ‘billing’, System will take the user to billing i.e. part 2.if(to_do.equals("bill"))
 {
 
-										05
-
-
 //part 2;
 }
 
