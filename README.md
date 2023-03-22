@@ -36,9 +36,9 @@ HashMap<String,Integer> hm2=new HashMap<String,Integer>();"'
 * An infinite while loop is used, so that the user can get to whatever parts he needs after end of the loop.
 * Inside the Infinite while loop the user will be asked what does he want to do,
 System.out.println("TO DO?");
-→If user wants to provide information, user needs to enter ‘add’.
-→If user wants to go to billing, user needs to enter ‘bill’.
-→If user wants to know the stock value, user needs to enter ‘stocks’.
+- →If user wants to provide information, user needs to enter ‘add’.
+- →If user wants to go to billing, user needs to enter ‘bill’.
+- →If user wants to know the stock value, user needs to enter ‘stocks’.
 * The input will be scanned by the system. String to_do=scan.next();
 * If the input is ‘add’, System will take the user to provide information i.e. part 1.
 
